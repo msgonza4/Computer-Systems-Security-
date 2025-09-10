@@ -1,1 +1,2 @@
 # cis_3345_MG_CB_NO-
+# This project, created by University of the Incarnate Word cybersecurity students, is a hands-on exploration of computer system vulnerabilities with a focus on confidentiality. It demonstrates how a real-world phishing attack works by simulating a fake login page and email lure to show how unauthorized individuals can trick users into divulging confidential information, highlighting the risks of data breaches, identity theft, and social engineering in a safe, educational environment.
