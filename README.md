@@ -9,11 +9,15 @@ The goal of this project was to:
 
 ---
 
-## Team Members
 
-* **Nick:** Development & Technical Analysis (50%)
-* **Mia:** Research & Evidence Acquisition (25%)
-* **Caylan:** Reporting & Presentation (25%)
+### Team Contribution Summary
+
+| Team Member | Contribution % | Primary Roles |
+| :--- | :--- | :--- |
+| **Nick Ortiz** | 50.0% | Development, Virtual Environment Setup, Firewall Implementation |
+| **Mia Gonzalez** | 25.0% | Research, Evidence Acquisition, Connectivity Validation |
+| **Caylan Barnes** | 25.0% | Reports/Presentations, Final Documentation, Structure |
+| **Team Total** | **100.0%** | |
 
 ---
 
